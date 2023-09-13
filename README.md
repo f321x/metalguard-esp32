@@ -7,16 +7,16 @@ This repository is intended to provide all the necessary code and documentation 
 Time needed: one Sunday evening
 
 # Chapters
-1. [Introduction](#introduction)  
-2. [Hardware](#paragraph1)    
-3. [Preparing the necessary software](#paragraph2)
-4. [Create a Telegram Bot](#paragraph3)
-5. [Configuring the firmware](#paragraph4)
-6. [Flashing the esp32](#paragraph5)    
-7. [Beheading the esp32](#paragraph6)
-8. [Putting everything together](#paragraph7)
-9. [Support](#paragraph8)
-10. [Donation](#paragraph9)
+1. [Introduction](#metalguard-esp32)  
+2. [Hardware](#2-hardware)    
+3. [Preparing the necessary software](#3-preparing-the-necesary-software)
+4. [Create a Telegram Bot](#4-creating-a-telegram-bot)
+5. [Configuring the firmware](#5-configuring-the-firmware)
+6. [Flashing the esp32](#6-flashing-the-esp32)    
+7. [Beheading the esp32](#7-beheading-the-esp32)
+8. [Putting everything together](#8-putting-everything-together)
+9. [Support](#9-support)
+10. [Donation](#9-donation)
 
 ## 2. Hardware
 - ESP-WROOM-32 microcontroller dev board, i used a "ESP32 NodeMCU" (~7€), recommended to buy on serious plattform to avoid malfunctioning fakes
