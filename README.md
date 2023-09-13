@@ -73,7 +73,7 @@ unsigned long long sleep_duration = 2592000000000;    // 30 days
 
 Set your **wifi** and **telegram** credentials in the code. 
 
-Set the **touch sensibility** with **Treshold**, higher is more sensitive. 50 is already pretty sensitive.
+Set the **touch sensibility** with **Threshold**, higher is more sensitive. 50 is already pretty sensitive.
 
 **sleep_duration** is the time interval in µs in which the esp will send you a test notification as status to notice if the battery is empty. (only one has to be active the others are commented out with //)
 
